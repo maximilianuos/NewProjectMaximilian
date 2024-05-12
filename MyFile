@@ -77,10 +77,6 @@ typings/
 
 # Next.js build output
 .next
-# Next.js build output
-.next
-# Next.js build output
-.next
 
 # Nuxt.js build / generate output
 .nuxt
@@ -95,6 +91,10 @@ dist
 # vuepress build output
 .vuepress/dist
 
+# Serverless directories
+.serverless/
+# Serverless directories
+.serverless/
 # Serverless directories
 .serverless/
 
